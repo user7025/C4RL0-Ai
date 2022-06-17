@@ -38,7 +38,7 @@
   
 ### SCAN QR
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://bit.ly/Millie-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Nihad-Kaztro/C4RLO-AI-QR?v=1)
 
 ### DEPLOY
 
