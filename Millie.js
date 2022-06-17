@@ -240,7 +240,7 @@ async function _quickTest() {
     ffprobe,
     ffmpegWebp,
     convert,
-    maick,
+    magick,
     gm,
     find
   }
