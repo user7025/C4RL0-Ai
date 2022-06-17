@@ -50,8 +50,11 @@
 <div align="left">
    
 
-#### <u>Config Vars<u>
+#### <u>Devoloper<u>
 
+  [![Ajmal](https://i.imgur.com/0eDfjxn.jpeg)](https://github.com/Ajmal-Achu)[`Ajmal`](https://github.com/Ajmal-Achu)
+----|
+   `Base, Bug Fixes, Modules, Commits`
 
 </div>
 
