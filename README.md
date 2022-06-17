@@ -4,6 +4,22 @@
 <div align="center"> 
   <img border-radius: 15px src="https://i.imgur.com/Pf1Wynm.png" width="200" height="200"/>
 
+<p align="left">
+  <a href="https://github.com/alien-Alfa"><img title="Support" src="https://img.shields.io/badge/maintained-yes-cyan.svg?style=for-the-badge&logo=xcode" /></a>
+</p>
+
+
+
+
+
+
+<br>
+<p align="left">
+  <a href="https://github.com/alien-Alfa"><img title="Support" src="https://img.shields.io/badge/current%20Status-Updates%20Are%20coming%20soon!-orange.svg?style=for-the-badge&logo=xcode" /></a>
+</p>
+<br>
+<p align="left">
+  <a href="https://github.com/alien-Alfa"><img title="Support" src="https://img.shields.io/badge/next%20update-undefined!-green.svg?style=for-the-badge&logo=xcode" /></a>
 
 <div align="center">
 
