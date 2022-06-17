@@ -23,16 +23,16 @@
         "wabot-aq",
         "c4rl0-Ai"
     ],
-    "homepage": "https://github.com/N1h4d-NHD",
+    "homepage": "https://github.com/N1H4D-NHD",
     "author": {
         "name": "Nihad nhd"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/N1h4d-NHD.git"
+        "url": "git+https://github.com/N1H4D-NHD.git"
     },
     "bugs": {
-        "url": "https://github.com/N1h4d-NHD/issues"
+        "url": "https://github.com/N1H4D-NHD/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
