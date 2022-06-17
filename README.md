@@ -2,7 +2,7 @@
 # *C4RL0 Ai🤖  Multi Device*
    ## <!-- Typing SVG -->
 <p align="center">
-    <a href="https://git.io/J0hKr">
+    <a href="https://github.com/N1H4D-NHD">
         <img
         src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=C4RL0+Ai+Is+A+Full+Featured+Ai+User+Bot;With+Multi+Device+Support;Created+By+Nihad+Nhd."
             alt="Typing SVG"
