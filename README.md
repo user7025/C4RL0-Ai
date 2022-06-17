@@ -52,7 +52,7 @@
 
 #### <u>Devoloper<u>
 
-  [![Ajmal](https://i.imgur.com/0eDfjxn.jpeg)](https://github.com/Ajmal-Achu)[`Ajmal`](https://github.com/Ajmal-Achu)
+  [![Nihad Nhd](https://github.com/N1H4D-NHD/C4RL0-Ai/blob/53b59be53b2d85065a56711d392a0ba714437476/views/img/IMG_20220617_180538.jpg)](https://github.com/N1H4D-NHD)[`Nihad Nhd`](https://github.com/N1H4D-NHD)
 ----|
    `Base, Bug Fixes, Modules, Commits`
 
