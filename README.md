@@ -53,24 +53,7 @@
    
 
 #### <u>Config Vars<u>
-      
-```
-      
-      SESSION_ID : Your Session ID that You recieved ,
-      
-      AUTHOR : Author Name of Sticker,
-      
-      PACKNAME : Packname of Sticker,   
-      
-      IMAGE: Image For Image templates
-      
-      WATERMARK : Watermark For Buttons
-      
-      OWNER : Your Number
-      
-      OWNER_NAME : Your Name
-      
-```
+
 
 </div>
 
