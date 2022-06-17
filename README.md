@@ -15,11 +15,11 @@
 
 <br>
 <p align="left">
-  <a href="https://github.com/N1H4DC4RL0"><img title="Support" src="https://img.shields.io/badge/current%20Version-V1.5%20-blue.svg?style=for-the-badge" /></a>
+  <a href="https://github.com/N1H4DC4RL0"><img title="Version" src="https://img.shields.io/badge/current%20Version-V1.5%20-blue.svg?style=for-the-badge" /></a>
 </p>
 <br>
 <p align="left">
-  <a href="https://github.com/N1H4DC4RL0"><img title="Support" src="https://img.shields.io/badge/next%20update-undefined!-green.svg?style=for-the-badge" /></a>
+  <a href="https://github.com/N1H4DC4RL0"><img title="Updates" src="https://img.shields.io/badge/next%20update-undefined!-green.svg?style=for-the-badge" /></a>
 
 <div align="center">
 
