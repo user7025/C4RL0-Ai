@@ -1,11 +1,11 @@
 
-# *Whats-Genie🧞  Multi Device*
+# *C4RL0 Ai🤖  Multi Device*
 
 <div align="center"> 
   <img border-radius: 15px src="https://i.imgur.com/Pf1Wynm.png" width="200" height="200"/>
 
 <p align="left">
-  <a href="https://github.com/N1H4DC4RL0"><img title="Author" src="https://img.shields.io/badge/Whats Genie🧞 Whatsapp Bot By-NihadNhd-red.svg?style=for-the-badge" /></a>
+  <a href="https://github.com/N1H4DC4RL0"><img title="Author" src="https://img.shields.io/badge/C4RL0 Ai Whatsapp User Bot CreatedBy-NihadNhd-red.svg?style=for-the-badge" /></a>
 </p>
 
 
