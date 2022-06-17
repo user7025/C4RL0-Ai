@@ -1,8 +1,8 @@
 {
-  "name": "Millie-MD",
+  "name": "C4RL0 Ai",
   "logo": "https://raw.githubusercontent.com/Neeraj-x0/Millie/main/Millie/millie.jpg",
   "description": "WhatsApp Bot",
-  "repository": "https://github.com/Neeraj-x0/Millie-MD",
+  "repository": "https://github.com/N1H4D-NHD/C4RLO-Ai",
   "keywords": ["bot","whatsapp","whatsapp-bot"],
   "env": {
  "SESSION_ID": {
