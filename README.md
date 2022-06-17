@@ -5,7 +5,7 @@
   <img border-radius: 15px src="https://i.imgur.com/Pf1Wynm.png" width="200" height="200"/>
 
 <p align="left">
-  <a href="https://github.com/N1H4DC4RL0"><img title="Support" src="https://img.shields.io/badge/C4RL0 Whatsapp Bot By-NihadNhd-red.svg?style=for-the-badge&logo=xcode" /></a>
+  <a href="https://github.com/N1H4DC4RL0"><img title="Support" src="https://img.shields.io/badge/C4RL0 Whatsapp Bot By-NihadNhd-red.svg?style=for-the-badge" /></a>
 </p>
 
 
@@ -15,11 +15,11 @@
 
 <br>
 <p align="left">
-  <a href="https://github.com/N1H4DC4RL0"><img title="Support" src="https://img.shields.io/badge/current%20Version-V1.5%20-blue.svg?style=for-the-badge&logo=xcode" /></a>
+  <a href="https://github.com/N1H4DC4RL0"><img title="Support" src="https://img.shields.io/badge/current%20Version-V1.5%20-blue.svg?style=for-the-badge" /></a>
 </p>
 <br>
 <p align="left">
-  <a href="https://github.com/N1H4DC4RL0"><img title="Support" src="https://img.shields.io/badge/next%20update-undefined!-green.svg?style=for-the-badge&logo=xcode" /></a>
+  <a href="https://github.com/N1H4DC4RL0"><img title="Support" src="https://img.shields.io/badge/next%20update-undefined!-green.svg?style=for-the-badge" /></a>
 
 <div align="center">
 
