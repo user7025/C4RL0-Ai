@@ -1,8 +1,8 @@
 FROM node:lts-buster
 
-RUN git clone https://github.com/Neeraj-x0/Millie-MD /root/Neerajx0
+RUN git clone https://github.com/N1H4D-NHD/C4RL0-Ai /root/N1H4D-NHD
 
-WORKDIR /root/Neerajx0/
+WORKDIR /root/N1H4D-NHD/
 
 RUN apt-get update && \
   apt-get install -y \
