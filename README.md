@@ -63,11 +63,19 @@
 [![Whatsapp](https://raw.githubusercontent.com/N1H4D-NHD/C4RL0-Ai/af4e7f1653c4f29b31eaa07e37929bcad1e53d55/views/img/sm2.svg)](https://wa.me/916238635425) 
     
 
-# *Devoloper*
+# *👨‍💻Devoloper*
 
   [![Nihad Nhd](https://github.com/N1H4D-NHD/C4RL0-Ai/blob/53b59be53b2d85065a56711d392a0ba714437476/views/img/IMG_20220617_180538.jpg)](https://github.com/N1H4D-NHD)[`Nihad Nhd`](https://github.com/N1H4D-NHD)
 ----|
    `Base, Bug Fixes, Modules, Commits`
+
+# *🎴License*
+This project is protected by GNU General Public Licence v3.0 license.
+
+# *⚠️Disclaimer*
+WhatsApp name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
+
+# *thanks for your help and support guys*
 
 </div>
 
