@@ -46,7 +46,7 @@
   ##
 
 ## `SCAN QR`
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Nihad-Kaztro/Carlo-Ai#index.js)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@N1H4D-NHD/Carlo-AI?outputonly=1&lite=1#index.js)
 
 
 ## `DEPLOY`
