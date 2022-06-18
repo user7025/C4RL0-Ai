@@ -35,7 +35,7 @@
 [![Whatsapp](https://raw.githubusercontent.com/N1H4D-NHD/C4RL0-Ai/f6947cdc5552e18f406df63c8f08877f9a5719f0/views/img/sm1.svg)](https://wa.me/916238635425) 
     
 
-#### <u>Devoloper<u>
+# *Devoloper*
 
   [![Nihad Nhd](https://github.com/N1H4D-NHD/C4RL0-Ai/blob/53b59be53b2d85065a56711d392a0ba714437476/views/img/IMG_20220617_180538.jpg)](https://github.com/N1H4D-NHD)[`Nihad Nhd`](https://github.com/N1H4D-NHD)
 ----|
