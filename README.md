@@ -22,7 +22,7 @@
 <div align="center">
 
 ## `SCAN QR`
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://bit.ly/Millie-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Nihad-Kaztro/Carlo-Ai#index.js)
 
 
 ## `DEPLOY`
