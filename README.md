@@ -24,6 +24,23 @@
 
 | © |Copyright Reserved
 
+# *📢 Guide*
+
+(1) "Scan Qr (Click Run On Replit Button For Scan Qr)"
+
+(2) "Copy The Session Code Recieved To your Number"
+
+(3) "Login To Heroku Account"
+
+(4) "Deploy To Heroku (click Deploy To Heroku Button For Deploy)"
+
+(5) "Fill The Configvar And Deploy"
+
+(6) "After Deployed Secuessfully Click Manage App"
+
+(7) "Go To Resources And Turn On Worker Npm Start"
+
+
   ##
 
   ##
