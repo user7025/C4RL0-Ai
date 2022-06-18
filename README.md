@@ -20,6 +20,9 @@
 <p align="left">
   <a href="https://github.com/N1H4D-NHD"><img title="Connection" src="https://img.shields.io/badge/Connection Type-Multi Device-green.svg?style=for-the-badge" /></a>
 <div align="center">
+𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗖𝗿𝗲𝗮𝘁𝗲𝗱 𝗕𝘆 𝗡𝗶𝗵𝗮𝗱 𝗡𝗵𝗱
+
+| © |Copyright Reserved
 
   ##
 
