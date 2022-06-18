@@ -32,7 +32,7 @@
 #### <u>Devoloper Contact<u>
 
 
-[![Deploy](https://raw.githubusercontent.com/N1H4D-NHD/C4RL0-Ai/f6947cdc5552e18f406df63c8f08877f9a5719f0/views/img/sm1.svg)](wa.me/916238635425) 
+[![Whatsapp](https://raw.githubusercontent.com/N1H4D-NHD/C4RL0-Ai/f6947cdc5552e18f406df63c8f08877f9a5719f0/views/img/sm1.svg)](https://wa.me/916238635425) 
     
 
 #### <u>Devoloper<u>
