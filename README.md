@@ -21,6 +21,10 @@
   <a href="https://github.com/N1H4D-NHD"><img title="Connection" src="https://img.shields.io/badge/Connection Type-Multi Device-green.svg?style=for-the-badge" /></a>
 <div align="center">
 
+  ##
+
+  ##
+
 ## `SCAN QR`
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Nihad-Kaztro/Carlo-Ai#index.js)
 
@@ -29,7 +33,9 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](  https://heroku.com/deploy?template=https://github.com/N1H4D-NHD/C4RL0-Ai) 
 
+  ##
 
+  ##
 
 #### <u>Devoloper Contact<u>
 
