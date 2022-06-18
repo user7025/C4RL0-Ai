@@ -7,7 +7,7 @@
         src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=C4RL0+Ai+Is+A+Full+Featured+Ai+User+Bot;With+Multi+Device+Support;Created+By+Nihad+Nhd."
             alt="Typing SVG"
 <div align="center"> 
-  <img border-radius: 15px src="https://i.imgur.com/Pf1Wynm.png" width="200" height="200"/>
+  <img border-radius: 15px src="https://github.com/N1H4D-NHD/C4RL0-Ai/blob/588af6588da545011db3c1b26c347f50cb063a1d/views/img/20220618_095230.jpg" width="200" height="200"/>
 
 <p align="left">
   <a href="https://github.com/N1H4D-NHD"><img title="Author" src="https://img.shields.io/badge/-C4RLO AI USERBOT-red.svg?style=for-the-badge" /></a> <a href="https://github.com/N1H4D-NHD"><img title="Author" src="https://img.shields.io/badge/-By NihadNhd-blue.svg?style=for-the-badge" /></a>
